@@ -1,0 +1,12 @@
+Israel Vitor N Santos - 402247
+
+
+OBSERVAÇÕES:
+
+1. Cadastro dos ADMINISTRADORES tem que ser direto no banco, pois não fiz uma página de cadastro para os funcionários, que são os admin do site.
+
+2. Algumas funcionalidade podem falhar no mozila, aconselho usar outro navegador.
+
+4. Foi utilizado o programa XAMPP para o banco de dados com PHP
+
+5. Depois da instalação do XAMPP, colocar a pasta "PHP_projetoClinicaPet" em "..\XAMPP\htdocs"
